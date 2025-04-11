@@ -3,14 +3,15 @@
 </div>
 
 <div align="center">
-  <image src="https://github-readme-stats.vercel.app/api?username=Mori-Yang&theme=tokyonight&show_icon=true&count_private=true"/>
+  <image src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mori-Yang&layout=compact&hide_title=true&hide_border=true&theme=tokyonight"/>
+  <image src="https://github-readme-stats.vercel.app/api?username=Mori-Yang&hide=issues&show_icons=true&line_height=24&hide_title=true&hide_border=true&theme=tokyonight"/>
 </div>
 
 ---
 Contributed: Hope to learn from open source!😃
 <div align="center">
-  <p><image src="https://github-readme-stats.vercel.app/api/pin/?username=xandemon&repo=developer-icons&theme=tokyonight&show_icon=true&count_private=true"/></p>
-  <p><image src="https://github-readme-stats.vercel.app/api/pin/?username=antfu&repo=eslint-plugin-command&theme=tokyonight&show_icon=true&count_private=true"/></p>
+  <image src="https://github-readme-stats.vercel.app/api/pin/?username=xandemon&repo=developer-icons&theme=tokyonight&show_icon=true&count_private=true&line_height=24"/>
+  <p><image src="https://github-readme-stats.vercel.app/api/pin/?username=antfu&repo=eslint-plugin-command&theme=tokyonight&show_icon=true&count_private=true&line_height=24"/></p>
 </div>
 
 ---
