@@ -24,8 +24,8 @@ Contributed: Hope to learn from open source!😃
 <div align="center">
   <image src="https://github-readme-stats.vercel.app/api/pin/?username=Mori-Yang&repo=eslint-plugin-command&theme=tokyonight&show_icon=true&count_private=true&line_height=24"/>
   <image src="https://github-readme-stats.vercel.app/api/pin/?username=Mori-Yang&repo=lynx-stack&theme=tokyonight&show_icon=true&count_private=true&line_height=24"/>
-  <image src="https://github-readme-stats.vercel.app/api/pin/?username=Mori-Yang&repo=developer-icons&theme=tokyonight&show_icon=true&count_private=true&line_height=24"/>
-    
+  <image src="https://github-readme-stats.vercel.app/api/pin/?username=Mori-Yang&repo=eslint-stylistic&theme=tokyonight&show_icon=true&count_private=true&line_height=24"/>
+  <p><image src="https://github-readme-stats.vercel.app/api/pin/?username=Mori-Yang&repo=developer-icons&theme=tokyonight&show_icon=true&count_private=true&line_height=24"/></p>
 </div>
 
 ---
